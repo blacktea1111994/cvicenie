@@ -12,8 +12,8 @@ kolko kamenov mnisi prekladaju...
 
 Nas tim tvoria clenovia:
 
-1.Filip Sekerka
-2.Jakub Toma
-3.Matej Komlossy
-4.Jan Majersky
+1. Filip Sekerka
+2. Jakub Toma
+3. Matej Komlossy
+4. Jan Majersky
 
