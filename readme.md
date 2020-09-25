@@ -13,7 +13,7 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1.Filip Sekerka
-2.
+2.Jakub Toma
 3.
 4.
 
