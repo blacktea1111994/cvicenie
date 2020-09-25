@@ -14,6 +14,6 @@ Nas tim tvoria clenovia:
 
 1.Filip Sekerka
 2.Jakub Toma
-3.
+3.Matej Komlossy
 4.
 
